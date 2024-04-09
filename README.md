@@ -1,7 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/ordinary-human-job-performed-by-anthropomorphic-robot_23-2151008359.jpg?
 I'm Rafique Ahmed Memon Unity3d and PHP Developer From Pakistan<br>
 💫 About Me:
-t=st=1712664933~exp=1712668533~hmac=77d244bb0a942a60abf4e78b3bdaf0e564e0173417203d9b067e0d66ea9425b4&w=740">
 I'm Currently working on Unity And PHP<br>I’m currently learning Laravel<br>Ask me about Unity3d And PHP<br>How to reach me Rafiqahmedmemon@gmail.com<br>All of my projects are available at https://docs.google.com/document/d/1kQEVJpffusG_K3DGSrAOHQeBZRH-WxKfmN-qzADmlPg/edit<br><br>
 
 
